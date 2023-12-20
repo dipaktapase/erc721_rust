@@ -1,0 +1,10 @@
+[package]
+name = "erc721_rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ink = "4.3.0"  # Use the appropriate version
+scale = "0.1.0"  # Use the appropriate version
